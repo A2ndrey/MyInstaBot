@@ -31,7 +31,7 @@ namespace InstaBot
 
         private void InitialForm()
         {
-            SourceP.Text = @"E:\Browser_Downloads\bmw";
+            SourceP.Text = @"E:\Browser_Downloads\bmw\used";
             DestinyP.Text = @"E:\Browser_Downloads\bmw\tmp";
             InstName1.Text = "vasylko.kuznetc";
             InstName2.Text = "i2va22020";
